@@ -7,6 +7,8 @@
 }
 html {
   scroll-behavior: smooth;
+  overflow-x: hidden;
+}
 }
 .body {
   background: var(--back);
@@ -436,4 +438,5 @@ li {
     display: block;
   }
 }
+
 
