@@ -10,7 +10,16 @@ html {
   overflow-x: hidden;
 }
 }
-.bodyclaire {
+.body {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
+.bodymaison {
   background: var(--back);
   background-size: cover;
   background-repeat: no-repeat;
@@ -482,6 +491,7 @@ li {
     display: block;
   }
 }
+
 
 
 
