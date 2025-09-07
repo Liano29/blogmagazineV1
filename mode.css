@@ -1,0 +1,28 @@
+:root {
+  --headerfoootercolor: linear-gradient(
+    135deg,
+    #fff6f7,
+    #f8d7dd,
+    #e98a9c,
+    #d45a76
+  );
+  --back: linear-gradient(135deg, #ffffff, #ffb6c1);
+  --maincolor: #fff6f7;
+  --textcolor: black;
+  --carrecolor: #e98a9bbb;
+  --boxtextbackground: #f8d7dd;
+  --submitbackground: #f8d7dd;
+  --headerfoootercolordark: linear-gradient(
+    135deg,
+    #b4b3b3ee,
+    #ba9fa4e8,
+    #a5606de6,
+    #d45a76
+  );
+  --backdark: linear-gradient(135deg, #0d0d0d, #4a1f2f);
+  --maincolordark: #454040;
+  --textcolordark: white;
+  --carrecolordark: #e98a9c;
+  --boxtextbackgrounddark: #f8d7dd;
+  --submitbackgrounddark: #f8d7dd;
+}
