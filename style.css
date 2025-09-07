@@ -338,7 +338,6 @@ li {
     position: absolute;
     background-color: rgba(232, 142, 142, 0.228);
     backdrop-filter: blur(2px);
-    right: -0.3vh;
     top: 10vh;
     padding: 10px 0px;
     width: 100%;
@@ -438,5 +437,6 @@ li {
     display: block;
   }
 }
+
 
 
