@@ -19,6 +19,51 @@ html {
   color: var(--textcolor);
   overflow-x: hidden;
 }
+.bodyabout {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
+.bodycontact {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
+.bodyarticles {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
+.bodyarticles2 {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
+.bodyarticles3 {
+  background: var(--back);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  min-height: 100vh;
+  color: var(--textcolor);
+  overflow-x: hidden;
+}
 .bodydark {
   background: var(--backdark);
   background-size: cover;
@@ -437,6 +482,7 @@ li {
     display: block;
   }
 }
+
 
 
 
