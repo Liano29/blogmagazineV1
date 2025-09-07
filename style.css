@@ -1,5 +1,5 @@
-@import "chart/mode.css";
-@import "chart/police.css";
+@import "mode.css";
+@import "police.css";
 * {
   padding: 0;
   margin: 0;
@@ -436,3 +436,4 @@ li {
     display: block;
   }
 }
+
